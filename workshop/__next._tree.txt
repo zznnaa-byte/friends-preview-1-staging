@@ -1,5 +1,5 @@
-:HL["/friends-preview-1-staging/_next/static/css/36110e46c96a8305.css","style"]
+:HL["/friends-preview-1-staging/_next/static/css/93543aac2c46ea50.css","style"]
 :HL["/friends-preview-1-staging/_next/static/css/6902d533111b86f5.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"workshop","h":96,"c":"$Q2"}]]
-0:{"b":"X3L9J4saU-6sv19cMEmV-","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"c2FJCjwowK7d6xdoHaW17","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
